@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OPN USA, Inc. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.OPNUSA.US
+OPN USA, Inc. provides a universal common parcel indexing platform that aggregates parcel data across insurance, risk, government, real estate, and AI data systems. By delivering accurate, interoperable parcel information, it supports underwriting models, emergency response planning, infrastructure permitting, and geospatial AI performance improvements. The service aims to enhance data alignment and enable better decision-making across multiple industries.
+
+**Areas:** Company · Parcel · Indexing · Insurance · Government · RealEstate · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.OPNUSA.US)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/opn-usa-inc/](https://apis.io/providers/opn-usa-inc/).
